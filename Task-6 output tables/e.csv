@@ -1,0 +1,241 @@
+Product_Name,Units_Sold,Payment_Method
+"Hanes ComfortSoft T-Shirt",10,"Debit Card"
+"Nike Air Force 1",6,"Debit Card"
+"Yeti Rambler Tumbler",6,"Credit Card"
+"Spalding NBA Street Basketball",6,"Credit Card"
+"Gap Essential Crewneck T-Shirt",6,"Debit Card"
+"Wilson Evolution Basketball",5,"Credit Card"
+"Under Armour HeatGear T-Shirt",5,"Debit Card"
+"Titleist Pro V1 Golf Balls",5,"Credit Card"
+"Calvin Klein Boxer Briefs",5,"Debit Card"
+"Tommy Hilfiger Polo Shirt",5,"Debit Card"
+"Forever 21 Graphic Tee",5,"Debit Card"
+"Adidas 3-Stripes Shorts",5,"Debit Card"
+"The Da Vinci Code",4,"Credit Card"
+"Manduka PRO Yoga Mat",4,"Credit Card"
+"1984 by George Orwell",4,"Credit Card"
+"Columbia Fleece Jacket",4,"Debit Card"
+"Becoming by Michelle Obama",4,"Credit Card"
+"Anker PowerCore Portable Charger",4,"Credit Card"
+"Where the Crawdads Sing by Delia Owens",4,"Credit Card"
+"Puma Suede Classic Sneakers",4,"Debit Card"
+"To Kill a Mockingbird by Harper Lee",4,"Credit Card"
+"The Catcher in the Rye by J.D. Salinger",4,"Credit Card"
+"Adidas Originals Superstar Sneakers",4,"Debit Card"
+"The Girl on the Train by Paula Hawkins",4,"Credit Card"
+"Old Navy Relaxed-Fit T-Shirt",4,"Debit Card"
+"Atomic Habits by James Clear",4,"Credit Card"
+"Hydro Flask Wide Mouth Water Bottle",4,"Credit Card"
+"Gap Crewneck Sweatshirt",4,"Debit Card"
+"Under Armour Tech 2.0 T-Shirt",4,"Debit Card"
+"The Hunger Games by Suzanne Collins",4,"Credit Card"
+"Uniqlo Airism Mesh Boxer Briefs",4,"Debit Card"
+"Nike Dri-FIT Training Shorts",4,"Debit Card"
+"Uniqlo Airism Seamless Boxer Briefs",4,"Debit Card"
+"Amazon Echo Dot (4th Gen)",4,"Credit Card"
+"Adidas Originals Trefoil Hoodie",4,"Debit Card"
+"Levi's 501 Jeans",3,"Debit Card"
+"Babolat Pure Drive Tennis Racket",3,"Credit Card"
+"Salt, Fat, Acid, Heat by Samin Nosrat",3,"Credit Card"
+"Zara Summer Dress",3,"Debit Card"
+"Adidas FIFA World Cup Football",3,"Credit Card"
+"Pride and Prejudice by Jane Austen",3,"Credit Card"
+"Instant Pot Duo",3,PayPal
+"Apple Watch Series 8",3,"Credit Card"
+"Harry Potter and the Sorcerer's Stone",3,"Credit Card"
+"GoPro HERO10 Black",3,"Credit Card"
+"Ray-Ban Aviator Sunglasses",3,"Debit Card"
+"Educated by Tara Westover",3,"Credit Card"
+"Nintendo Switch",3,"Credit Card"
+"Eufy RoboVac 11S",3,PayPal
+"Nike Metcon 6",3,"Credit Card"
+"Rogue Fitness Kettlebell",3,"Credit Card"
+"The Hobbit by J.R.R. Tolkien",3,"Credit Card"
+"Uniqlo Ultra Light Down Jacket",3,"Debit Card"
+"The Alchemist by Paulo Coelho",3,"Credit Card"
+"Bose SoundLink Revolve+ Speaker",3,"Credit Card"
+"H&M Slim Fit Jeans",3,"Debit Card"
+"Fitbit Versa 3",3,"Credit Card"
+"Gap High Rise Skinny Jeans",3,"Debit Card"
+"The Subtle Art of Not Giving a F*ck by Mark Manson",3,"Credit Card"
+"Lululemon Align Leggings",3,"Debit Card"
+"Think and Grow Rich by Napoleon Hill",3,"Credit Card"
+"Adidas Essential Track Pants",3,"Debit Card"
+"The Outsiders by S.E. Hinton",3,"Credit Card"
+"Nike Sportswear Club Fleece Hoodie",3,"Debit Card"
+"The Art of War by Sun Tzu",3,"Credit Card"
+"Yeti Rambler Bottle",3,"Credit Card"
+"Nike Tempo Running Shorts",3,"Debit Card"
+"Amazon Fire TV Stick 4K",3,"Credit Card"
+"The Sun Also Rises by Ernest Hemingway",3,"Credit Card"
+"Levi's 511 Slim Fit Jeans",3,"Debit Card"
+"The Catcher in the Rye by J.D. Salinger",3,"Credit Card"
+"Gap 1969 Original Fit Jeans",3,"Debit Card"
+"The Great Alone by Kristin Hannah",3,"Credit Card"
+"The Girl with the Dragon Tattoo by Stieg Larsson",3,"Credit Card"
+"Champion Reverse Weave Hoodie",3,"Debit Card"
+"The Silent Patient by Alex Michaelides",3,"Credit Card"
+"Hydro Flask Standard Mouth Water Bottle",3,"Credit Card"
+"Nike Air Force 1 Sneakers",3,"Debit Card"
+"The Handmaid's Tale by Margaret Atwood",3,"Credit Card"
+"iPhone 14 Pro",2,"Credit Card"
+"Blueair Classic 480i",2,PayPal
+"Dune by Frank Herbert",2,"Credit Card"
+"Samsung Galaxy Tab S8",2,"Credit Card"
+"North Face Down Jacket",2,"Debit Card"
+"Garmin Forerunner 945",2,"Credit Card"
+"Gone Girl by Gillian Flynn",2,"Credit Card"
+"Adidas Ultraboost Shoes",2,"Debit Card"
+"Nike Air Zoom Pegasus 37",2,"Credit Card"
+"Sony WH-1000XM4 Headphones",2,"Credit Card"
+"L'Oreal Revitalift Serum",2,PayPal
+"Roomba i7+",2,PayPal
+"Fitbit Charge 5",2,"Credit Card"
+"Patagonia Better Sweater",2,"Debit Card"
+"Kindle Paperwhite",2,"Credit Card"
+"The Silent Patient by Alex Michaelides",2,"Credit Card"
+"Anastasia Beverly Hills Brow Wiz",2,PayPal
+"Philips Airfryer XXL",2,PayPal
+"Garmin Edge 530",2,"Credit Card"
+"The Great Gatsby by F. Scott Fitzgerald",2,"Credit Card"
+"Glossier Boy Brow",2,PayPal
+"Apple AirPods Pro",2,"Credit Card"
+"Levi's Trucker Jacket",2,"Debit Card"
+"LG OLED TV",2,PayPal
+"On Running Cloud Shoes",2,"Credit Card"
+"Logitech MX Master 3 Mouse",2,"Credit Card"
+"The Power of Now by Eckhart Tolle",2,"Credit Card"
+"Under Armour HOVR Sonic 4 Shoes",2,"Credit Card"
+"Shark IQ Robot Vacuum",2,PayPal
+"Google Nest Hub Max",2,"Credit Card"
+"Sapiens: A Brief History of Humankind by Yuval Noah Harari",2,"Credit Card"
+"Breville Smart Grill",2,PayPal
+"CeraVe Hydrating Facial Cleanser",2,PayPal
+"Apple iPad Air",2,"Credit Card"
+"Dyson Supersonic Hair Dryer",2,PayPal
+"The Four Agreements by Don Miguel Ruiz",2,"Credit Card"
+"Keurig K-Mini Coffee Maker",2,PayPal
+"Fitbit Inspire 2",2,"Credit Card"
+"The Power of Habit by Charles Duhigg",2,"Credit Card"
+"Cuisinart Coffee Center",2,PayPal
+"Levi's Sherpa Trucker Jacket",2,"Debit Card"
+"Bose SoundSport Wireless Earbuds",2,"Credit Card"
+"Ninja Foodi Pressure Cooker",2,PayPal
+"The Night Circus by Erin Morgenstern",2,"Credit Card"
+"TriggerPoint GRID Foam Roller",2,"Credit Card"
+"Instant Pot Duo Evo Plus",2,PayPal
+"The Girl with the Dragon Tattoo by Stieg Larsson",2,"Credit Card"
+"Crock-Pot 6-Quart Slow Cooker",2,PayPal
+"First Aid Beauty Ultra Repair Cream",2,PayPal
+"The Martian by Andy Weir",2,"Credit Card"
+"Anova Precision Cooker",2,PayPal
+"Adidas Ultraboost Running Shoes",2,"Debit Card"
+"The Road by Cormac McCarthy",2,"Credit Card"
+"Apple TV 4K",2,"Credit Card"
+"The Goldfinch by Donna Tartt",2,"Credit Card"
+"Lululemon Wunder Under High-Rise Leggings",2,"Debit Card"
+"Keurig K-Elite Coffee Maker",2,PayPal
+"L'Occitane Shea Butter Hand Cream",2,PayPal
+"The Nightingale by Kristin Hannah",2,"Credit Card"
+"Philips Sonicare DiamondClean Toothbrush",2,PayPal
+"Old Navy Mid-Rise Rockstar Super Skinny Jeans",2,"Debit Card"
+"Fitbit Luxe",2,"Credit Card"
+"Dune by Frank Herbert",2,"Credit Card"
+"Yeti Rambler 20 oz Tumbler",2,"Credit Card"
+"Dyson V11 Vacuum",1,PayPal
+"Neutrogena Skincare Set",1,PayPal
+"MacBook Pro 16-inch",1,"Credit Card"
+"Chanel No. 5 Perfume",1,PayPal
+"Keurig K-Elite Coffee Maker",1,PayPal
+"Dyson Supersonic Hair Dryer",1,PayPal
+"Ninja Professional Blender",1,PayPal
+"Olay Regenerist Face Cream",1,PayPal
+"Bose QuietComfort 35 Headphones",1,"Credit Card"
+"Panasonic NN-SN966S Microwave",1,PayPal
+"MAC Ruby Woo Lipstick",1,PayPal
+"Peloton Bike",1,"Credit Card"
+"Estee Lauder Advanced Night Repair",1,PayPal
+"Nespresso VertuoPlus",1,PayPal
+"Clinique Moisture Surge",1,PayPal
+"Breville Smart Oven",1,PayPal
+"Shiseido Ultimate Sun Protector",1,PayPal
+"KitchenAid Artisan Stand Mixer",1,PayPal
+"Hyperice Hypervolt Massager",1,"Credit Card"
+"Lancome La Vie Est Belle",1,PayPal
+"Samsung QLED 4K TV",1,"Credit Card"
+"Drunk Elephant C-Firma Day Serum",1,PayPal
+"HP Spectre x360 Laptop",1,"Credit Card"
+"De'Longhi Magnifica Espresso Machine",1,PayPal
+"Dyson Pure Cool Link",1,PayPal
+"Charlotte Tilbury Magic Cream",1,PayPal
+"Ring Video Doorbell",1,"Credit Card"
+"Sunday Riley Good Genes",1,PayPal
+"Instant Pot Duo Crisp",1,PayPal
+"Tatcha The Water Cream",1,PayPal
+"Garmin Fenix 6X Pro",1,"Credit Card"
+"Vitamix Explorian Blender",1,PayPal
+"Kiehl's Midnight Recovery Concentrate",1,PayPal
+"Canon EOS R5 Camera",1,"Credit Card"
+"The Ordinary Niacinamide Serum",1,PayPal
+"Bowflex SelectTech 552 Dumbbells",1,"Credit Card"
+"Cuisinart Griddler Deluxe",1,PayPal
+"Biore UV Aqua Rich Watery Essence Sunscreen",1,PayPal
+"Amazon Echo Show 10",1,"Credit Card"
+"YETI Hopper Flip Portable Cooler",1,"Credit Card"
+"Hamilton Beach FlexBrew Coffee Maker",1,PayPal
+"NARS Radiant Creamy Concealer",1,PayPal
+"Yeti Roadie 24 Cooler",1,"Credit Card"
+"Sony PlayStation 5",1,"Credit Card"
+"Fenty Beauty Killawatt Highlighter",1,PayPal
+"Microsoft Surface Laptop 4",1,"Credit Card"
+"The Ordinary Hyaluronic Acid Serum",1,PayPal
+"Samsung Odyssey G9 Gaming Monitor",1,"Credit Card"
+"Instant Pot Ultra",1,PayPal
+"Clinique Dramatically Different Moisturizing Lotion",1,PayPal
+"YETI Tundra 45 Cooler",1,"Credit Card"
+"Apple AirPods Max",1,"Credit Card"
+"Laneige Water Sleeping Mask",1,PayPal
+"Sony WH-1000XM4 Headphones",1,"Credit Card"
+"GlamGlow Supermud Clearing Treatment",1,PayPal
+"Garmin Forerunner 245",1,"Credit Card"
+"Google Pixel 6 Pro",1,"Credit Card"
+"Breville Nespresso Creatista Plus",1,PayPal
+"Youth to the People Superfood Antioxidant Cleanser",1,PayPal
+"Apple MacBook Air",1,"Credit Card"
+"Cuisinart Custom 14-Cup Food Processor",1,PayPal
+"Neutrogena Hydro Boost Water Gel",1,PayPal
+"Samsung Odyssey G7 Gaming Monitor",1,"Credit Card"
+"Paula's Choice Skin Perfecting 2% BHA Liquid Exfoliant",1,PayPal
+"Bowflex SelectTech 1090 Adjustable Dumbbells",1,"Credit Card"
+"Oakley Holbrook Sunglasses",1,"Credit Card"
+"Google Pixelbook Go",1,"Credit Card"
+"Dyson V8 Absolute",1,PayPal
+"La Mer CrÃ¨me de la Mer Moisturizer",1,PayPal
+"Polar Vantage V2",1,"Credit Card"
+"Sonos Beam Soundbar",1,"Credit Card"
+"Glossier Cloud Paint",1,PayPal
+"TRX All-in-One Suspension Training System",1,"Credit Card"
+"Logitech G Pro X Wireless Gaming Headset",1,"Credit Card"
+"Breville Smart Coffee Grinder Pro",1,PayPal
+"Tom Ford Black Orchid Perfume",1,PayPal
+"GoPro HERO9 Black",1,"Credit Card"
+"Instant Pot Duo Nova",1,PayPal
+"Dr. Jart+ Cicapair Tiger Grass Color Correcting Treatment",1,PayPal
+"Yeti Tundra Haul Portable Wheeled Cooler",1,"Credit Card"
+"Samsung Galaxy Watch 4",1,"Credit Card"
+"KitchenAid Stand Mixer",1,PayPal
+"Caudalie Vinoperfect Radiance Serum",1,PayPal
+"Bose SoundLink Color Bluetooth Speaker II",1,"Credit Card"
+"Canon EOS Rebel T7i DSLR Camera",1,"Credit Card"
+"YETI Tundra 65 Cooler",1,"Credit Card"
+"Apple MacBook Pro 16-inch",1,"Credit Card"
+"iRobot Braava Jet M6",1,PayPal
+"Tarte Shape Tape Concealer",1,PayPal
+"Garmin Forerunner 945",1,"Credit Card"
+"The Ordinary Caffeine Solution 5% + EGCG",1,PayPal
+"Google Nest Wifi Router",1,"Credit Card"
+"Anova Precision Oven",1,PayPal
+"Fresh Sugar Lip Treatment",1,PayPal
+"Bose QuietComfort 35 II Wireless Headphones",1,"Credit Card"
+"Nespresso Vertuo Next Coffee and Espresso Maker",1,PayPal
+"Sunday Riley Luna Sleeping Night Oil",1,PayPal
